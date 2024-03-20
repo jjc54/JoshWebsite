@@ -3,12 +3,12 @@ categories:
 - Statistics
 - Deep Learning
 date: "2024-03-20T12:14:34+06:00"
-description: CLIP Chronicles: Bridging Pixels and Prose in Deep Learning
+description: CLIP Chronicles - Bridging Pixels and Prose in Deep Learning
 draft: false
 github_url: https://github.com/jjc54/IDC6146_Project_CLIP_Chronicles
 image: images/portfolio/CLIP.png
 project_url: '[View Project](https://jjc54.github.io/IDC6146_Project_CLIP_Chronicles/)'
-title: CLIP Chronicles: Bridging Pixels and Prose in Deep Learning
+title: CLIP Chronicles - Bridging Pixels and Prose in Deep Learning
 ---
 
 
