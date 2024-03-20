@@ -1,0 +1,235 @@
+# banner
+banner:
+  title: "Hi! I’m <br> Josh Cook <br> <small>Adjunct Professor, Graduate Student, Clinical Researcher, and Data Scientist.</small>"
+  button:
+    enable: true
+    label: "Contact Josh"
+    icon: 'ti-email'
+    URL: "mailto:jcook0312@outlook.com"
+  
+# contact 
+contact:
+  enable: true
+  title: 'Contact Josh'
+  contact_image: "images/about/headshot.JPG"
+  email:
+    title: "Email"
+    email: "jcook0312@outlook.com"
+  button:
+    label: "Contact Josh"
+    icon: 'ti-email'
+    URL: "mailto:jcook0312@outlook.com"
+
+# about
+about:
+  enable : true
+  content : 
+    <p class="lead">
+    <strong> Driven professional </strong> with a strong background in bench to bedside 
+    research with a proven interest in pursuing a career as a physician-scientist 
+    (eventually), while actively engaged in teaching, mentorship, research, 
+    and data science opportunities. My academic and professional research efforts 
+    have led to undergraduate honors thesis acceptance, subsequent undergraduate 
+    research publication, several successfully completed clinical trials with 
+    associated publications, and certification by the Association of Clinical 
+    Research Professionals (ACRP) as a Project Manager (ACRP-PM) and Clinical 
+    Research Coordinator (CCRC). 
+    </p>
+    <p class="lead">
+    <strong> Currently </strong> working in higher education as an Adjunct Professor while pursuing 
+    an additional master’s degree to further my research-driven education in 
+    preparation for dual doctoral (M.D./Ph.D.) application. I aim to synthesize 
+    my knowledge of the biomedical sciences, clinical research, and data science 
+    to become a physician-scientist capable of seamlessly integrating clinical 
+    care with clinical research in a way that maximizes evidence-based care options 
+    for my patients. 
+    </p>
+    <p class="lead">
+    <strong> Proficient and effective science communicator and professor </strong>
+    (both oral and written), frequently teaching, explaining, and
+    presenting complex information and industry jargon to audiences of 
+    various backgrounds (scientific and nonscientific). I deeply acknowledge 
+    the importance of teaching and of mentorship and thus aim to honor my own 
+    mentors by continuing to guide others to the best of my ability. 
+    </p>
+  author_image: "images/about/headshot.JPG"
+  button:
+    enable : true
+    label : "know more"
+    URL : "about"
+
+# portfolio
+portfolio:
+  enable : true
+  title : "Highlighted Works"
+  item_show : 2
+  item_width_lg: 6
+  # portfolio item comes from 'data/portfolio.yml' item.
+
+
+
+# experience
+experience:
+  enable : true
+  title : "Experience"
+  description: "<p class='lead'>7+ years in Biomedical Science,
+  3+ years in Clinical Research, and 2+ years in Data Science.
+  Current applicant to M.D./Ph.D. programs in the United States (Oncology/
+  Cell Biology). I aim to synthesize my knowledge of the biomedical sciences, 
+  clinical research, and data science to become a physician-scientist capable of 
+  seamlessly integrating clinical care with clinical research in a way that 
+  maximizes evidence-based care options for my patients. 
+  </p>"
+  button:
+    icon: "ti-linkedin"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/feed/"
+  button2:
+    icon: "ti-file"
+    btnText: "Download My CV"
+    URL: "/cv/cv_16feb2024.pdf"
+  
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Adjunct Professor"
+      company : "University of West Florida (UWF)"
+      duration : "Jan 2024 - Present"
+      
+    - logo : "images/experience/icon-2.png"
+      title : "Research Quality Analyst"
+      company : "Andrews Research & Education Foundation (AREF)"
+      duration : "Feb 2023 - Dec 2023"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Clinical Research Coordinator"
+      company : "Andrews Research & Education Foundation (AREF)"
+      duration : "May 2021 - Feb 2023"
+
+# education
+education:
+  enable : true
+  title : "Education & Certification"
+  item:
+    - title : "Master of Science, Data Science"
+      year : "2024"
+      academy : "University of West Florida (UWF)"
+      
+    - title : "Project Management"
+      year : "2024"
+      academy : "Association of Clinical Research Professionals (ACRP)"
+    
+    - title : "Clinical Research Coordination"
+      year : "2024"
+      academy : "Association of Clinical Research Professionals (ACRP)"
+  
+    - title : "Master of Science, Clinical Research Management"
+      year : "2023"
+      academy : "Wake Forest University (WFU)"
+      
+    - title : "Bachelor of Science, Biomedical Sciences"
+      year : "2021"
+      academy : "University of West Florida (UWF)"
+
+      
+# skills
+skill:
+  enable : true
+  title : "Select Skills"
+  item:
+    - title : "Laboratory Safety & Biohazardous Material Management"
+      progress : "90%"
+      color : "#fdb157"
+      
+    - title : "Good Clinical Practices (GCP)"
+      progress : "90%"
+      color : "#9473e6"
+      
+    - title : "R Programming (Base, tidyverse, gt)"
+      progress : "80%"
+      color : "#18bc9c"
+      
+    - title : "SQL/PostgreSQL"
+      progress : "50%"
+      color : "#ffbcaa"
+
+# service
+service:
+  enable : true
+  title : "Service"
+  item:
+    - title : "Chair, Quality of Life - Pensacola Young Professionals (PYP)"
+      icon : "ti-world"
+      content : "https://www.pensacolayp.com/leadership"
+      highlighted : true
+
+    - title : "Co-chair, Visualizations and Reporting - SouthEast SAS® Users Group (SESUG)"
+      icon : "ti-bar-chart"
+      content : "https://www.sesug.org/SESUG2024/academicsections.php"
+      highlighted : true
+
+    - title : "Member, Graduate Student - UWF Computational Statistics and Data Analytics Lab (CSDA)"
+      icon : "ti-shortcode"
+      content : "https://csdalab.github.io/team/"
+      highlighted : true
+
+
+
+# testimonial
+testimonial:
+  enable : false
+  title : "References"
+  item:
+    - name : "Justin Kurland, PhD"
+      image : "images/testimonial/justin.jpg"
+      designation : "Lead Data Scientist, Northwestern Mutual"
+      content : "<p class='lead text-white'><em>In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!</em></p>"
+      
+    - name : "Chris Selig"
+      image : "images/testimonial/chris.jpg"
+      designation : "Data Scientist"
+      content : "<p class='lead text-white'><em>Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview.</em></p>"
+        
+    - name : "Mohana Krishna Chittoor"
+      image : "images/testimonial/mohana.jpg"
+      designation : "Lead Data Scientist, Money View"
+      content : "<p class='lead text-white'><em>After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want.</em></p>"
+      
+# client logo slider
+clients_logo_slider:
+  enable : false
+  item:
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "#"
+
+# blog
+blog:
+  enable : false
+  title : "Blogs"
+  # blog post comes from "content/blog" folder
