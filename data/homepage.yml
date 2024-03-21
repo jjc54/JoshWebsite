@@ -25,32 +25,32 @@ about:
   enable : true
   content : 
     <p class="lead">
-    <strong> Driven professional </strong> with a strong background in bench to bedside 
-    research with a proven interest in pursuing a career as a physician-scientist 
-    (eventually), while actively engaged in teaching, mentorship, research, 
-    and data science opportunities. My academic and professional research efforts 
-    have led to undergraduate honors thesis acceptance, subsequent undergraduate 
-    research publication, several successfully completed clinical trials with 
-    associated publications, and certification by the Association of Clinical 
-    Research Professionals (ACRP) as a Project Manager (ACRP-PM) and Clinical 
-    Research Coordinator (CCRC). 
+    <strong> I am a driven professional </strong>with a solid foundation in bench-to-bedside research, 
+    harboring a keen interest in evolving into a physician-scientist. My journey is 
+    marked by a commitment to teaching, mentorship, research, and data science. 
+    Through my academic and professional endeavors, I have achieved notable 
+    milestones such as the acceptance of my undergraduate honors thesis, the
+    publication of undergraduate research, the successful completion of several 
+    clinical trials with accompanying publications, and obtaining certifications 
+    as a Project Manager (ACRP-PM) and Clinical Research Coordinator (CCRC) from 
+    the Association of Clinical Research Professionals.
     </p>
     <p class="lead">
-    <strong> Currently </strong> working in higher education as an Adjunct Professor while pursuing 
-    an additional master’s degree to further my research-driven education in 
-    preparation for dual doctoral (M.D./Ph.D.) application. I aim to synthesize 
-    my knowledge of the biomedical sciences, clinical research, and data science 
-    to become a physician-scientist capable of seamlessly integrating clinical 
-    care with clinical research in a way that maximizes evidence-based care options 
-    for my patients. 
+    <strong> Currently, </strong>I serve as an Adjunct Professor in higher education 
+    while pursuing an additional masters degree. This step is part of my 
+    strategic preparation for applying to dual doctoral (M.D./Ph.D.) programs.
+    My goal is to blend my expertise in biomedical sciences, clinical research, 
+    and data science to emerge as a physician-scientist who can integrate 
+    clinical care with research, thereby enhancing evidence-based care for 
+    my patients. 
     </p>
     <p class="lead">
-    <strong> Proficient and effective science communicator and professor </strong>
-    (both oral and written), frequently teaching, explaining, and
-    presenting complex information and industry jargon to audiences of 
-    various backgrounds (scientific and nonscientific). I deeply acknowledge 
-    the importance of teaching and of mentorship and thus aim to honor my own 
-    mentors by continuing to guide others to the best of my ability. 
+    <strong> As a science communicator and professor, </strong>I excel in both oral 
+    and written communication, frequently teaching, explaining, and presenting 
+    complex information and industry jargon to diverse audiences, including 
+    those without a scientific background. Recognizing the significance of 
+    teaching and mentorship, I am dedicated to honoring the legacy of my 
+    mentors by guiding others with utmost dedication and expertise.
     </p>
   author_image: "images/about/headshot.JPG"
   button:
@@ -136,7 +136,7 @@ skill:
   enable : true
   title : "Select Skills"
   item:
-    - title : "Laboratory Safety & Biohazardous Material Management"
+    - title : "Clinical Study Development & Project Management"
       progress : "90%"
       color : "#fdb157"
       
@@ -144,7 +144,7 @@ skill:
       progress : "90%"
       color : "#9473e6"
       
-    - title : "R Programming (Base, tidyverse, gt)"
+    - title : "R Programming (Base, tidyverse, gt, quarto)"
       progress : "80%"
       color : "#18bc9c"
       
