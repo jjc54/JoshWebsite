@@ -1,7 +1,7 @@
 ---
 categories:
 - Statistics
-- Deep Learning
+- Data Science
 date: "2024-03-20T12:14:34+06:00"
 description: CLIP Chronicles - Bridging Pixels and Prose in Deep Learning
 draft: false

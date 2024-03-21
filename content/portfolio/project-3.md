@@ -2,6 +2,7 @@
 categories:
 - Biomedical Science and Medicine
 - Data Science
+- Clinical Research
 date: "2024-02-01T12:14:34+06:00"
 description: Cells Remain Viable When Collected With an In-Line-Suction Tissue Collector From Byproducts of Anterior Cruciate Ligament Reconstruction Surgery
 draft: false
