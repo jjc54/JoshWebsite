@@ -31,6 +31,10 @@ EEx-mediated reparations of metabolic and redox imbalance (utilization of pentos
 
 #### Project Highlights
 
+✅ 1st Author 
+
+✅ 1st Peer-reviewed Publication
+
 ✅ Undergraduate Honors Thesis and Peer-reviewed Publication - Part of UWF Kugelman Honors Program (https://uwf.edu/academic-engagement-and-student-affairs/departments/kugelman-honors-program/)
 
 ✅ Evaluation of cellular metabolic changes using a mice model and benchtop laboratory techniques
