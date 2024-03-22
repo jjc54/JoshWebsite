@@ -11,7 +11,7 @@ banner:
 contact:
   enable: true
   title: 'Contact Josh'
-  contact_image: "images/about/headshot.JPG"
+  contact_image: "images/about/sig.png"
   email:
     title: "Email"
     email: "jcook0312@outlook.com"
@@ -87,7 +87,7 @@ experience:
   button2:
     icon: "ti-file"
     btnText: "Download My CV"
-    URL: "/cv/cv_16feb2024.pdf"
+    URL: "/cv/cv_21mar2024.pdf"
   
   item: 
     - logo : "images/experience/icon-1.png"
@@ -116,11 +116,11 @@ education:
       
     - title : "Project Management"
       year : "2024"
-      academy : "Association of Clinical Research Professionals (ACRP)"
+      academy : "Association of Clinical Research Professionals (ACRP) - https://www.credly.com/badges/1044caba-1d13-478b-9ac6-2d809f14abcd/public_url"
     
     - title : "Clinical Research Coordination"
       year : "2024"
-      academy : "Association of Clinical Research Professionals (ACRP)"
+      academy : "Association of Clinical Research Professionals (ACRP) - https://www.credly.com/badges/7fde3129-05e0-4ad7-88f2-49b54da5c9e2/public_url"
   
     - title : "Master of Science, Clinical Research Management"
       year : "2023"

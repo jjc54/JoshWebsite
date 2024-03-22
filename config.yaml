@@ -26,7 +26,7 @@ params:
     map_latitude: '51.5223477'
     map_longitude: '-0.1622023'
     map_marker: images/marker.png
-  phone: 850-736-1801
+  phone: N/A
   plugins:
     css:
       - link: plugins/bootstrap/bootstrap.min.css

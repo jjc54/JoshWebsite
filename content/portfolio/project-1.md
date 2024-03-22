@@ -1,7 +1,6 @@
 ---
 categories:
-- Statistics
-- Data Science
+- Data Science & Statistics
 date: "2024-03-20T12:14:34+06:00"
 description: From Classroom to Clinic - Applying Linear Mixed Models to Understand Real-World Medical Research Data
 draft: false
