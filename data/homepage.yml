@@ -230,6 +230,6 @@ clients_logo_slider:
 
 # blog
 blog:
-  enable : false
+  enable : true
   title : "Blogs"
   # blog post comes from "content/blog" folder

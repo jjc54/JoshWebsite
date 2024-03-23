@@ -2,7 +2,7 @@
 categories:
 - Data Science & Statistics
 - Academic Projects
-date: "2022-12-040T12:14:34+06:00"
+date: "2022-12-04T12:14:34+06:00"
 description: Modeling in Regression STA6235 Group Project
 draft: false
 github_url: N/A

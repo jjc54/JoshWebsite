@@ -2,7 +2,7 @@
 categories:
 - Data Science & Statistics
 - Academic Projects
-date: "2022-05-020T12:14:34+06:00"
+date: "2022-05-02T12:14:34+06:00"
 description: Statistical Modeling STA5167 Group Project
 draft: false
 github_url: N/A
