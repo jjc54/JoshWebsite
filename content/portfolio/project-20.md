@@ -1,0 +1,24 @@
+---
+categories:
+- Clinical Research
+- Presentations
+date: "2019-04-18T12:14:34+06:00"
+description: Clinical Trials at the University of West Florida -  Advocating for Sponsorship in Undergraduate Clinical Research
+draft: false
+github_url: N/A
+image: images/portfolio/SRHC.png
+project_url: '[View Project](https://1drv.ms/p/s!Aqkk_opBQPkygpAE3bPSHO3Rd0GXNw?e=TfKLVTz)'
+title: Clinical Trials at the University of West Florida - Advocating for Sponsorship in Undergraduate Clinical Research
+---
+
+#### Project Details
+
+The University of West Florida offers its students the unique opportunity to get involved in clinical research through the newly founded UWF Clinical Trials Program. This program gives students direct patient interaction, and exposure to the clinical aspect of the research process. Unfortunately, UWF is one of the few universities funding this type of undergraduate research, which should not be the case.
+
+**Reference:**
+
+Cook, J., Summers, E., Noll, A., Robison, K., Guttmann, R. (18Apr2019), Poster Presentation (Cook, J.).  Clinical Trials at the University of West Florida: Advocating for Sponsorship in Undergraduate Clinical Research. *2019* *UWF OUR Spring Symposium, Pensacola, FL.*
+
+#### Project Highlights
+
+✅ 2019 UWF Symposium Poster Presentation

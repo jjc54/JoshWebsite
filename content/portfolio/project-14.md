@@ -2,6 +2,7 @@
 categories:
 - Biomedical Science & Medicine
 - Data Science & Statistics
+- Presentations
 date: "2022-10-25T12:14:34+06:00"
 description: How I Use SAS®  within Academia and Industry
 draft: false
@@ -15,6 +16,10 @@ title: How I Use SAS®  within Academia and Industry
 
 Examples of SAS use in academia and industry, as well as plans for future use.
 
+**Reference**
+
+Cook, J. (25Oct2022), Oral Presentation (Cook, J.). SAS® Student Showcase. *2022 SouthEast SAS® Users Group (SESUG) Conference,* Mobile, AL.
+
 #### Project Highlights
 
-✅ 2022 SouthEast SAS® Users Group (SESUG) Scholarship Presentation. 
+✅ 2022 SouthEast SAS® Users Group (SESUG) Scholarship Presentation.

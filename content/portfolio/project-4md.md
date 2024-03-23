@@ -1,6 +1,7 @@
 ---
 categories:
 - Clinical Research
+- Academic Projects
 date: "2023-05-02T12:14:34+06:00"
 description: Assessing the Perspectives of Orthopedic Patients as Research Participants and as Stakeholders
 draft: false

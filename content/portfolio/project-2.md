@@ -1,6 +1,7 @@
 ---
 categories:
 - Data Science & Statistics
+- Academic Projects
 date: "2024-03-20T12:14:34+06:00"
 description: CLIP Chronicles - Bridging Pixels and Prose in Deep Learning
 draft: false
@@ -20,6 +21,8 @@ As part of Deep Learning for Data Science (IDC 6146) at the University of West F
 This project was completed under the guidance of Dr. Shusen Pu (https://www.shusenpu.com/)
 
 #### Project Highlights
+
+✅ Course completed with an 'A'
 
 ✅ Academic Group Project - Part of UWF M.S. Data Science (https://uwf.edu/programs/hmcse/data-science-ms/)
 

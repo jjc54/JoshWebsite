@@ -1,6 +1,7 @@
 ---
 categories:
 - Data Science & Statistics
+- Academic Projects
 date: "2024-03-20T12:14:34+06:00"
 description: From Classroom to Clinic - Applying Linear Mixed Models to Understand Real-World Medical Research Data
 draft: false
@@ -20,6 +21,8 @@ Through detailed exploratory data analysis, we unraveled intricate patterns and 
 Our diagnostic evaluations confirmed the robustness of the LMM, ensuring the assumptions of homoscedasticity and normality were satisfied. The project's findings reveal a notable correlation between BMI and IOS outcomes, effectively encompassed by the LMM's random effects.
 
 The academic journey of this capstone has been as informative as it has been transformative, advancing our comprehension of both the subject matter and the analytic tools at our disposal. The project highlights the indispensability of LMMs in handling complex, real-world data in medical contexts, reinforcing the relevance of data science in driving medical research innovation. As emerging data scientists, the hands-on experience and insights garnered from this study are invaluable, solidifying our foundation in statistical analysis and preparing us for future challenges in the field.
+
+This project was completed under the guidance of Dr. Achraf Cohen (https://pages.uwf.edu/acohen/)
 
 #### Project Highlights
 
