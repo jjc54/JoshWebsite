@@ -52,6 +52,9 @@ menu:
     - URL: portfolio
       name: Portfolio
       weight: 3
+    - URL: blog
+      name: Blog
+      weight: 4
     - URL: contact
       name: Contact
-      weight: 4
+      weight: 5
