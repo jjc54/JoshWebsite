@@ -2,12 +2,12 @@
 categories:
 - Data Science & Statistics
 date: "2024-03-24T12:14:34+06:00"
-description: A Quarto 1.4 Dashboard - Clinical Trials in Florda over 10 Years
+description: A Quarto 1.4 Dashboard - Clinical Trials in Florida over the last 10 Years
 draft: false
 github_url: https://github.com/jjc54/QuartoDashboarding
 image: images/portfolio/quarto_dash.png
 project_url: '[View Project](https://jjc54.github.io/QuartoDashboarding/)'
-title: A Quarto 1.4 Dashboard - Clinical Trials in Florda over 10 Years
+title: A Quarto 1.4 Dashboard - Clinical Trials in Florida over the last 10 Years
 ---
 
 #### Project Details
@@ -16,4 +16,4 @@ The release of Quarto 1.4 marks a significant advancement in the realm of data v
 
 #### Project Highlights
 
-✅ Upcoming focus of a paper and presentation at PharmaSUG 2024 (https://www.pharmasug.org/us/index.html)
+✅ Upcoming focus of a paper and presentation at PharmaSUG 2024 (https://www.pharmasug.org/us/2024/papers.html)
