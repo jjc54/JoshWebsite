@@ -157,7 +157,7 @@ service:
   enable : true
   title : "Service"
   item:
-    - title : "Chair, Quality of Life - Pensacola Young Professionals (PYP)"
+    - title : "Co-Chair, Quality of Life - Pensacola Young Professionals (PYP)"
       icon : "ti-world"
       content : "https://www.pensacolayp.com/leadership"
       highlighted : true
