@@ -1,6 +1,6 @@
 # banner
 banner:
-  title: "Hi! I’m <br> Josh Cook <br> <small>Adjunct Professor, Graduate Student, Clinical Researcher, and Data Scientist.</small>"
+  title: "Hi! I’m <br> Josh Cook <br> <small>NIH T35 Graduate Research Fellow, Adjunct Professor, Clinical Researcher, and Data Scientist.</small>"
   button:
     enable: true
     label: "Contact Josh"
@@ -26,23 +26,21 @@ about:
   content : 
     <p class="lead">
     <strong> I am a driven professional </strong>with a solid foundation in bench-to-bedside research, 
-    harboring a keen interest in evolving into a physician-scientist. My journey is 
-    marked by a commitment to teaching, mentorship, research, and data science. 
-    Through my academic and professional endeavors, I have achieved notable 
-    milestones such as the acceptance of my undergraduate honors thesis, the
-    publication of undergraduate research, the successful completion of several 
-    clinical trials with accompanying publications, and obtaining certifications 
-    as a Project Manager (ACRP-PM) and Clinical Research Coordinator (CCRC) from 
-    the Association of Clinical Research Professionals.
+    harboring a keen interest in evolving into a physician-scientist. My academic 
+    and professional efforts have led to the completion of two concurrent master’s 
+    degrees, leadership in the clinical research industry, numerous research 
+    publications and presentations, and certification by the Association of Clinical 
+    Research Professionals (ACRP) as a Project Manager (ACRP-PM) and Clinical 
+    Research Coordinator (CCRC). 
     </p>
     <p class="lead">
-    <strong> Currently, </strong>I serve as an Adjunct Professor in higher education 
-    while pursuing an additional masters degree. This step is part of my 
-    strategic preparation for applying to dual doctoral (M.D./Ph.D.) programs.
-    My goal is to blend my expertise in biomedical sciences, clinical research, 
-    and data science to emerge as a physician-scientist who can integrate 
-    clinical care with research, thereby enhancing evidence-based care for 
-    my patients. 
+    <strong> Currently, </strong>I work as a NIH Graduate Research Fellow at the 
+    University of South Carolina Big Data Health Science Center and in higher education 
+    as an Adjunct Professor at the University of West Florida while applying to dual 
+    doctoral (M.D./Ph.D.) programs. I aim to synthesize my knowledge of the biomedical 
+    sciences, clinical research, and data science to become a physician-scientist capable 
+    of seamlessly integrating clinical care with clinical research in a way that maximizes 
+    evidence-based care options for my patients. 
     </p>
     <p class="lead">
     <strong> As a science communicator and professor, </strong>I excel in both oral 
@@ -91,38 +89,38 @@ experience:
   
   item: 
     - logo : "images/experience/icon-1.png"
+      title : "NIH T35 Graduate Research Fellow"
+      company : "University of South Carolina Big Data Health Science Center"
+      duration : "May 2024 - Present"
+    
+    - logo : "images/experience/icon-2.png"
       title : "Adjunct Professor"
       company : "University of West Florida (UWF)"
       duration : "Jan 2024 - Present"
       
-    - logo : "images/experience/icon-2.png"
+    - logo : "images/experience/icon-3.png"
       title : "Research Quality Analyst"
       company : "Andrews Research & Education Foundation (AREF)"
       duration : "Feb 2023 - Dec 2023"
-      
-    - logo : "images/experience/icon-1.png"
-      title : "Clinical Research Coordinator"
-      company : "Andrews Research & Education Foundation (AREF)"
-      duration : "May 2021 - Feb 2023"
 
 # education
 education:
   enable : true
   title : "Education & Certification"
   item:
-    - title : "Master of Science, Data Science"
+    - title : "Master of Science, Data Science (DS)"
       year : "2024"
       academy : "University of West Florida (UWF)"
       
-    - title : "Project Management"
+    - title : "Project Management (ACRP-PM)"
       year : "2024"
       academy : "Association of Clinical Research Professionals (ACRP) - https://www.credly.com/badges/1044caba-1d13-478b-9ac6-2d809f14abcd/public_url"
     
-    - title : "Clinical Research Coordination"
+    - title : "Clinical Research Coordination (CCRC)"
       year : "2024"
       academy : "Association of Clinical Research Professionals (ACRP) - https://www.credly.com/badges/7fde3129-05e0-4ad7-88f2-49b54da5c9e2/public_url"
   
-    - title : "Master of Science, Clinical Research Management"
+    - title : "Master of Science, Clinical Research Management (CRM)"
       year : "2023"
       academy : "Wake Forest University (WFU)"
       
@@ -167,7 +165,7 @@ service:
       content : "https://www.sesug.org/SESUG2024/academicsections.php"
       highlighted : true
 
-    - title : "Member, Graduate Student - UWF Computational Statistics and Data Analytics Lab (CSDA)"
+    - title : "Member, Post-Graduate - UWF Computational Statistics and Data Analytics Lab (CSDA)"
       icon : "ti-shortcode"
       content : "https://csdalab.github.io/team/"
       highlighted : true
