@@ -1,6 +1,7 @@
 ---
 categories:
 - Data Science & Statistics
+- Presentations
 date: "2024-03-24T12:14:34+06:00"
 description: A Quarto 1.4 Dashboard - Clinical Trials in Florida over the last 10 Years
 draft: false

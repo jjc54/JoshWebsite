@@ -49,6 +49,9 @@ about:
     teaching and mentorship, I am dedicated to honoring the legacy of my 
     mentors by guiding others with utmost dedication and expertise.
     </p>
+    <p class="lead">
+    My personal blog can be found on medium (linked above). 
+    </p>
   author_image: "images/about/headshot.JPG"
   button:
     enable : true
@@ -83,7 +86,7 @@ experience:
   button2:
     icon: "ti-file"
     btnText: "Download My CV"
-    URL: "/cv/cv_07aug2024.pdf"
+    URL: "/cv/cv_13aug2024.pdf"
   
   item: 
     - logo : "images/experience/icon-1.png"
@@ -226,6 +229,6 @@ clients_logo_slider:
 
 # blog
 blog:
-  enable : true
+  enable : false
   title : "Blog"
   # blog post comes from "content/blog" folder

@@ -4,7 +4,6 @@ summaryLength: '10'
 theme: kross-hugo-data-science
 title: Joshua J. Cook
 params:
-  google_analytics: "G-8603939331" # Google Analytics Tracking ID
   address: Pensacola Metropolitan Area
   author: Joshua J. Cook, M.S. DS, M.S. CRM, ACRP-PM, CCRC
   baidu_analytics_id: ''
@@ -18,7 +17,7 @@ params:
   copyright: Copyright &copy; 2024 [Joshua J. Cook]
   description: An example data science portfolio with kross theme.
   email: jcook0312@outlook.com
-  google_analytics_id: ''
+  google_analytics_id: 'G-8603939331'
   home: Home
   logo: ''
   map:
@@ -47,15 +46,14 @@ params:
       icon: ti-linkedin
     - URL: 'https://github.com/jjc54?tab=repositories'
       icon: ti-github
+    - URL: 'https://medium.com/@jcook031244'
+      icon: ti-comment
   theme_color: '#003049'
 menu:
   main:
     - URL: portfolio
       name: Portfolio
       weight: 3
-    - URL: blog
-      name: Blog
-      weight: 4
     - URL: contact
       name: Contact
-      weight: 5
+      weight: 4
