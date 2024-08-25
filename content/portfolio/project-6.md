@@ -41,3 +41,5 @@ Branch, E., Cook, J., Cohen, A., Plummer, H., Emami, A., Truett, J., Anz, A. Pla
 #### Project Highlights
 
 ✅ Professional, peer-reviewed publication- Part of the Andrews Research & Education Foundation (<https://andrewsref.org/>)
+
+✅ Example of data analysis and technical writing skills.

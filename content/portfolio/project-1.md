@@ -26,6 +26,8 @@ This project was completed under the guidance of Dr. Achraf Cohen (https://pages
 
 #### Project Highlights
 
+✅ Course completed with an 'A'
+
 ✅ Academic Group Capstone Project - Part of UWF M.S. Data Science (https://uwf.edu/programs/hmcse/data-science-ms/)
 
 ✅ Comprehensive Literature Review on LMMs

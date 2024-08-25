@@ -28,6 +28,8 @@ Thus, the purpose of this study is to instead collect stakeholder input using a 
 
 #### Project Highlights
 
+✅ Course completed with an 'A'
+
 ✅ Academic Individual Capstone Project - Part of WFU M.S. Clinical Research Management (https://school.wakehealth.edu/education-and-training/graduate-programs/clinical-research-management-ms)
 
 ✅ Novel approach to assessing patient interest in involvement in clinical research as stakeholders

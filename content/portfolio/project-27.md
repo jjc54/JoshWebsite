@@ -19,9 +19,9 @@ This project was completed under the direction of Dr. Raid Amin, with data and i
 
 #### Project Highlights
 
-✅ Academic Group Project - Part of UWF M.S. Data Science (https://uwf.edu/programs/hmcse/data-science-ms/)
-
 ✅ Course completed with an 'A'
+
+✅ Academic Group Project - Part of UWF M.S. Data Science (https://uwf.edu/programs/hmcse/data-science-ms/)
 
 ✅ Completed in SAS®
 

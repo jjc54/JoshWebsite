@@ -5,8 +5,8 @@ date: "2024-03-24T12:14:34+06:00"
 description: A Quarto 1.4 Dashboard - Clinical Trials in Florida over the last 10 Years
 draft: false
 github_url: https://github.com/jjc54/QuartoDashboarding
-image: images/portfolio/quarto_dash.png
-project_url: '[View Project](https://jjc54.github.io/QuartoDashboarding/)'
+image: images/portfolio/quarto_dash_2.png
+project_url: '[View Project](https://www.pharmasug.org/proceedings/2024/DV/PharmaSUG-2024-DV-458.pdf)'
 title: A Quarto 1.4 Dashboard - Clinical Trials in Florida over the last 10 Years
 ---
 

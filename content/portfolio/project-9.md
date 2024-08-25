@@ -25,4 +25,4 @@ Cook, J. A Dash of SAS®, a Pinch of R: Cooking up Dashboards Using Two Very Dif
 
 ✅ Awarded Best Paper Award (Open Source)
 
-✅ WUSS 2023 Conference Paper
+✅ WUSS 2023 Conference Paper and Oral Presentation

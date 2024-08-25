@@ -22,7 +22,7 @@ Employing tools such as R, PostgreSQL, the tidyverse suite for data handling, an
 
 #### Project Highlights
 
-✅ Upcoming focus of a virtual and oral presentation at the 2024 UWF Symposium (https://uwf.edu/academic-affairs/departments/undergraduate-research/student-symposium--faculty-research-showcase/)
+✅ Oral presenatation at the 2024 UWF Symposium (https://uwf.edu/academic-affairs/departments/undergraduate-research/student-symposium--faculty-research-showcase/)
 
 ✅ 3-Minute Thesis (3MT) presentation for the 2024 Conference of Southern Graduate Schools  (https://www.csgs.org/annual-meeting) and 2024 Conference of Florida
 Graduate Schools (https://uwf.edu/graduate/academics-research/cfgs-2024/)
