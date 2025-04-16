@@ -5,7 +5,7 @@ theme: kross-hugo-data-science
 title: Joshua J. Cook
 params:
   address: Pensacola Metropolitan Area
-  author: Joshua J. Cook, M.S. DS, M.S. CRM, ACRP-PM, CCRC
+  author: Joshua J. Cook
   baidu_analytics_id: ''
   baidu_site_verification: ''
   contact:

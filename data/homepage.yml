@@ -1,6 +1,6 @@
 # banner
 banner:
-  title: "Hi! I’m <br> Josh Cook <br> <small>NIH T35 Graduate Research Fellow, Adjunct Professor, Clinical Researcher, and Data Scientist.</small>"
+  title: "I’m <br> Josh Cook, <br> <small>Researcher, Educator, and Scientist.</small>"
   button:
     enable: true
     label: "Contact Josh"
@@ -26,8 +26,8 @@ about:
   content : 
     <p class="lead">
     <strong> I am a dedicated and analytical professional </strong> with a strong foundation in 
-    data science and clinical research. Over 7 years of experience in Biomedical 
-    Science, 3+ years in Clinical Research, and 2+ years in Data Science. I have a proven
+    data science and clinical research. Over 8 years of experience in Biomedical 
+    Science, 5+ years in Clinical Research, and 2+ years in Data Science. I have a proven
     ability to synthesize complex data, develop predictive models, and drive 
     impactful research projects. Certified in Project Management and Clinical 
     Research Coordination, with a commitment to advancing healthcare through 
@@ -36,8 +36,8 @@ about:
     <p class="lead">
     <strong> I am currently </strong> working part-time as a NIH Graduate Research Fellow at 
     the University of South Carolina Big Data Health Science Center and in higher 
-    education as an Adjunct Professor at the University of West Florida while actively 
-    pursuing a full-time data science position. I aim to utilize my diverse knowledge 
+    education as a Lab Coordinator & Adjunct Instructor at the University of West Florida while actively 
+    pursuing a full-time clinical research or data science position. I aim to utilize my diverse knowledge 
     of the biomedical sciences, clinical research, and data science to become an impactful 
     member of a team within the healthcare, clinical research, or public health sectors.
     </p>
@@ -72,9 +72,9 @@ portfolio:
 experience:
   enable : true
   title : "Experience"
-  description: "<p class='lead'>7+ years in Biomedical Science,
-  3+ years in Clinical Research, and 2+ years in Data Science.
-  Actively pursuing a full-time data science position. I aim to utilize my 
+  description: "<p class='lead'>8+ years in Biomedical Science,
+  5+ years in Clinical Research, and 2+ years in Data Science.
+  Actively pursuing a full-time clincal research or data science position. I aim to utilize my 
   diverse knowledge of the biomedical sciences, clinical research, and data 
   science to become an impactful member of a team within the healthcare, 
   clinical research, or public health sectors.
@@ -85,31 +85,31 @@ experience:
     URL: "https://www.linkedin.com/feed/"
   button2:
     icon: "ti-file"
-    btnText: "Download My CV"
-    URL: "/cv/cv_13aug2024.pdf"
+    btnText: "Download My Resume"
+    URL: "/cv/resume_16apr2025.pdf"
   
   item: 
     - logo : "images/experience/icon-1.png"
       title : "NIH T35 Graduate Research Fellow"
       company : "University of South Carolina Big Data Health Science Center"
-      duration : "May 2024 - Present"
+      duration : "05/2024 - Present"
     
     - logo : "images/experience/icon-2.png"
-      title : "Adjunct Professor"
+      title : "Lab Coordinator & Adjunct Instructor"
       company : "University of West Florida (UWF)"
-      duration : "Jan 2024 - Present"
+      duration : "01/2024 - Present"
       
     - logo : "images/experience/icon-3.png"
-      title : "Research Quality Analyst"
+      title : "Clinical Research Coordinator -> Research Quality Analyst"
       company : "Andrews Research & Education Foundation (AREF)"
-      duration : "Feb 2023 - Dec 2023"
+      duration : "05/2021 - 12/2023"
 
 # education
 education:
   enable : true
   title : "Education & Certification"
   item:
-    - title : "Master of Science, Data Science (DS)"
+    - title : "Master of Science, Data Science (DS), Analytics & Modeling"
       year : "2024"
       academy : "University of West Florida (UWF)"
       
@@ -121,11 +121,11 @@ education:
       year : "2024"
       academy : "Association of Clinical Research Professionals (ACRP) - https://www.credly.com/badges/7fde3129-05e0-4ad7-88f2-49b54da5c9e2/public_url"
   
-    - title : "Master of Science, Clinical Research Management (CRM)"
+    - title : "Master of Science, Clinical Research Management (CRM), Clinical Operations"
       year : "2023"
       academy : "Wake Forest University (WFU)"
       
-    - title : "Bachelor of Science, Biomedical Sciences"
+    - title : "Bachelor of Science, Biomedical Sciences, Kugelman Honors"
       year : "2021"
       academy : "University of West Florida (UWF)"
 
@@ -135,7 +135,7 @@ skill:
   enable : true
   title : "Select Skills"
   item:
-    - title : "Clinical Study Development & Project Management"
+    - title : "Clinical Research Cooridination & Project Management"
       progress : "90%"
       color : "#fdb157"
       
@@ -161,17 +161,15 @@ service:
       content : "https://www.pensacolayp.com/leadership"
       highlighted : true
 
-    - title : "Co-chair, Visualizations and Reporting - SouthEast SAS® Users Group (SESUG)"
+    - title : "Co-chair, Open Source Technologies, R, and Python - PharmaSUG 2025"
       icon : "ti-bar-chart"
-      content : "https://www.sesug.org/SESUG2024/academicsections.php"
+      content : "https://pharmasug.org/conferences/pharmasug-2025-us/section-descriptions/"
       highlighted : true
 
     - title : "Member, Post-Graduate - UWF Computational Statistics and Data Analytics Lab (CSDA)"
       icon : "ti-shortcode"
       content : "https://csdalab.github.io/team/"
       highlighted : true
-
-
 
 # testimonial
 testimonial:
