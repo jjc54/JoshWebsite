@@ -82,7 +82,7 @@ experience:
   button:
     icon: "ti-linkedin"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/feed/"
+    URL: "https://www.linkedin.com/in/joshua-j-cook-934075169/"
   button2:
     icon: "ti-file"
     btnText: "Download My Resume"
@@ -109,7 +109,7 @@ education:
   enable : true
   title : "Education & Certification"
   item:
-    - title : "Master of Science, Data Science (DS), Analytics & Modeling"
+    - title : "Master of Science, Data Science (Analytics & Modeling)"
       year : "2024"
       academy : "University of West Florida (UWF)"
       
@@ -121,11 +121,11 @@ education:
       year : "2024"
       academy : "Association of Clinical Research Professionals (ACRP) - https://www.credly.com/badges/7fde3129-05e0-4ad7-88f2-49b54da5c9e2/public_url"
   
-    - title : "Master of Science, Clinical Research Management (CRM), Clinical Operations"
+    - title : "Master of Science, Clinical Research Management (Clinical Operations)"
       year : "2023"
       academy : "Wake Forest University (WFU)"
       
-    - title : "Bachelor of Science, Biomedical Sciences, Kugelman Honors"
+    - title : "Bachelor of Science, Biomedical Sciences (Kugelman Honors)"
       year : "2021"
       academy : "University of West Florida (UWF)"
 
@@ -135,7 +135,7 @@ skill:
   enable : true
   title : "Select Skills"
   item:
-    - title : "Clinical Research Cooridination & Project Management"
+    - title : "Clinical Research Coordination & Project Management"
       progress : "90%"
       color : "#fdb157"
       
